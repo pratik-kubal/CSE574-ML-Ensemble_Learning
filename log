@@ -1,0 +1,42 @@
+*
+optimization finished, #iter = 1
+obj = -1.000008, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000003, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000167, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000023, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000041, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000047, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000165, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000008, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000044, rho = 0.000000
+nSV = 2, nBSV = 0
+*
+optimization finished, #iter = 1
+obj = -1.000018, rho = 0.000000
+nSV = 2, nBSV = 0
+Total nSV = 5
+[LibSVM]

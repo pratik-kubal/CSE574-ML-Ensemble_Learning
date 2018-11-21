@@ -17,7 +17,7 @@ val_data = validation_data[0]
 val_target = validation_data[1]
 test_target = test_data[1]
 test_data = test_data[0]
-classifier1 = SVC(kernel='rbf', C=3, gamma = 0.1,decision_function_shape='ovr',cache_size=7000,verbose=True)
+classifier1 = SVC(kernel='rbf', C=4, gamma = 0.1,decision_function_shape='ovr',cache_size=7000,verbose=True)
 classifier1.fit(train_data,train_target)
 from sklearn.externals import joblib
-joblib.dump(classifier1,'./models/SVMGridSearchedParamModel.joblib',compress=True)
+joblib.dump(classifier1,'./models/SVMGridSearchedParamModelC_4.joblib',compress=True)
